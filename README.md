@@ -4,6 +4,10 @@ ZCoder is a web-based coding platform built to help developers practice coding, 
 
 ---
 
+## 🚀 Live Preview  
+[![Live Demo](https://img.shields.io/badge/Live%20Preview-ZCoder-blue?style=for-the-badge)](https://zcoder-amber.vercel.app)
+
+
 ## 🚀 Features
 
 - 🧠 Real-time code editor with syntax highlighting
